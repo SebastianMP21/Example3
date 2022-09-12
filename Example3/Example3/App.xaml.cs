@@ -10,7 +10,7 @@ namespace Example3
         {
             InitializeComponent();
 
-            MainPage = new GridDemo();
+            MainPage = new StackLayoutDemo();
         }
 
         protected override void OnStart()
